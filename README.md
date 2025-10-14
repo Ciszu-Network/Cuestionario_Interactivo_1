@@ -1,4 +1,4 @@
-# Cuestionario 📝
+# Cuestionario Interactivo creado por Ciszuko Antony 📝
 
 ¡Bienvenido al proyecto Cuestionario! Este es un programa de consola simple e interactivo escrito en Python que te hace una serie de preguntas y guarda tus respuestas.
 
