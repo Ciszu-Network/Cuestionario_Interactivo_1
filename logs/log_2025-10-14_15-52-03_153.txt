@@ -1,0 +1,94 @@
+Bienvenido a este cuestionario creado por Ciszuko Antony... Este cuestionario fue creado con Python. 2025-10-14 15:52:03
+Ingrese su nombre.
+> El nombre solo debe contener letras.
+Ingrese su nombre.
+> Ingrese su apellido.
+> Hola, Illo Endciti! ¿Cómo estás hoy?:
+> ¡Me alegra escuchar eso!
+¿Cuántos años tienes?.
+> ¡2 años! ¡Eres menor de edad!
+¿Cuál es tu género? Ejemplo: (Masculino | Femenino | Otros generos).
+> ¡Hola, señor Illo!
+¿Cuál es tu profesión?: | Minimo 2 letras.
+> ¡Vaya! Awdawd es una profesión interesante.
+¿Cual es tu color favorito?: | Minimo 2 letras.
+> La respuesta debe tener al menos 2 letras.
+¿Cual es tu color favorito?: | Minimo 2 letras.
+> ¡Kwdawkd es un color bonito!
+¿Cual es tu animal favorito?: | Minimo 2 letras.
+> ¡Akwd es un animal fascinante!
+¿Cual es tu comida favorita?: | Minimo 2 letras.
+> ¡Awkd suena delicioso!
+¿De qué país eres?: | Minimo 2 letras.
+> ¡Ah, Adiawjdiawjkddkiwa es un país maravilloso!
+¿Cuál es tu película favorita?: | Minimo 2 letras
+> ¡Daiwdkjawjd es una película genial!
+¿Cuál es tu serie favorita?: | Minimo 2 letras.
+> ¡Awi es una serie entretenida!
+¿Cuál es tu juego favorito?: | Minimo 2 letras.
+> ¡Jda es un juego divertido!
+¿Cuál es tu deporte favorito?: | Minimo 2 letras.
+> ¡Iwdj es un deporte interesante!
+¿Cuál es tu pasión?: | Minimo 2 letras.
+> ¡Aiwjkd es una pasión increible!
+¿Cuál es tu banda favorita?: | Minimo 2 letras.
+> ¡Awdikja es una banda impresionante!
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> La respuesta debe tener al menos 7 números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> Por favor, ingresa solo números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> Por favor, ingresa solo números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> La respuesta debe tener al menos 7 números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> Por favor, ingresa solo números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> La respuesta debe tener al menos 7 números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> Por favor, ingresa solo números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> La respuesta debe tener al menos 7 números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> La respuesta debe tener al menos 7 números.
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> ¡Perfecto! Tu DNI estara oculto.
+¿Cuál es tu número de teléfono?: (Cualquier formato) | Minimo 9 digitos.
+> ¡Genial! Tu número de teléfono es 234243234324324234234.
+¿Cuál es tu número favorito?: (Cualquier número).
+> ¡Interesante! Tu número favorito es 34858385348593845.
+¿Cuál es tu sitio web?: (Puedes poner http:// o https://) | Minimo 2 letras.
+> ¡Genial! Tu sitio web es 34593458498538459834895345.
+Escribe una breve biografía sobre ti: | Minimo 20 letras.
+> ¡Gracias por compartir tu biografía!
+¿Cómo describirías tu apariencia física?: | Minimo 10 letras.
+> ¡Gracias por compartir sobre tu apariencia física!
+¡Gracias por completar el cuestionario!
+
+➡️ Resumen de tus respuestas:
+
+- Nombre: Illo,
+- Apellido: Endciti,
+- Nombre completo: Illo Endciti,
+- Edad: 2 años,
+- Género: Masculino,
+
+- Profesión: awdawd,
+- Color favorito: kwdawkd,
+- Animal favorito: akwd,
+- Comida favorita: awkd,
+- País: Adiawjdiawjkddkiwa,
+- Pelicula favorita: daiwdkjawjd,
+- Serie favorita: awi,
+- Juego favorito: jda,
+- Deporte favorito: iwdj,
+- Pasión: aiwjkd,
+- Banda favorita: awdikja,
+- DNI: Oculto,
+- Número de teléfono: 234243234324324234234,
+- Número favorito: 34858385348593845,
+- Sitio web: 34593458498538459834895345,
+- Biografía: 894358939485893489534,
+- Apariencia física: aaaaaaaaaaaaaaaaaaaaaaaaa.
+Resumen guardado en el archivo: E:\Archivos\VSC\Testing\Cuestionario\logs\cuestionarioresumen_Illo Endciti_2025-10-14_15-53-30_272.txt de la carpeta actual. (Puedes abrirlo con cualquier editor de texto).
+Log guardado en el archivo: E:\Archivos\VSC\Testing\Cuestionario\logs\logs\log_2025-10-14_15-52-03_153.txt de la carpeta actual. (Puedes abrirlo con cualquier editor de texto).

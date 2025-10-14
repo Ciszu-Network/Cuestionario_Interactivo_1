@@ -1,0 +1,82 @@
+Bienvenido a este cuestionario creado por Ciszuko Antony... Este cuestionario fue creado con Python. 2025-10-14 16:03:40
+Ingrese su nombre.
+> Ingrese su apellido.
+> Hola, Caca Meoln! ¿Cómo estás hoy?:
+> Lo siento. Espero que tu día mejore.
+¿Cuántos años tienes?.
+> ¡2 años! ¡Eres menor de edad!
+¿Cuál es tu género? Ejemplo: (Masculino | Femenino | Otros generos).
+> ¡Hola, tu genero: awdawd queda bien, Caca!
+¿Cuál es tu profesión?: | Minimo 2 letras.
+> Por favor, ingresa solo letras.
+¿Cuál es tu profesión?: | Minimo 2 letras.
+> ¡Vaya! Wdawdwd es una profesión interesante.
+¿Cual es tu color favorito?: | Minimo 2 letras.
+> ¡Grdgdrgrdgdrg es un color bonito!
+¿Cual es tu animal favorito?: | Minimo 2 letras.
+> ¡Drgdrgdrgdrgdrg es un animal fascinante!
+¿Cual es tu comida favorita?: | Minimo 2 letras.
+> ¡Drgdrgdrgdrgdr suena delicioso!
+¿De qué país eres?: | Minimo 2 letras.
+> ¡Ah, Drgdrgdrgdrgdr es un país maravilloso!
+¿Cuál es tu película favorita?: | Minimo 2 letras
+> ¡Thtfhfthfthfth es una película genial!
+¿Cuál es tu serie favorita?: | Minimo 2 letras.
+> ¡Wawdawdawd es una serie entretenida!
+¿Cuál es tu juego favorito?: | Minimo 2 letras.
+> ¡565464565454654654 es un juego divertido!
+¿Cuál es tu deporte favorito?: | Minimo 2 letras.
+> ¡231231231313132 es un deporte interesante!
+¿Cuál es tu pasión?: | Minimo 2 letras.
+> Por favor, ingresa solo letras.
+¿Cuál es tu pasión?: | Minimo 2 letras.
+> ¡Dddd es una pasión increible!
+¿Cuál es tu banda favorita?: | Minimo 2 letras.
+> ¡222222222 es una banda impresionante!
+¿Cuál es tu DNI?: (DNI REAL) | Minimo 7 digitos.
+> ¡Perfecto! Tu DNI estara oculto.
+¿Cuál es tu número de teléfono?: (Cualquier formato) | Minimo 9 digitos.
+> ¡Genial! Tu número de teléfono es 4444444444444.
+¿Cuál es tu número favorito?: (Cualquier número).
+> ¡Interesante! Tu número favorito es 5555555555555555.
+¿Cuál es tu sitio web?: (Puedes poner http:// o https://) | Minimo 2 letras.
+> ¡Genial! Tu sitio web es 666.
+Escribe una breve biografía sobre ti: | Minimo 20 letras.
+> La respuesta debe tener al menos 20 caracteres.
+Escribe una breve biografía sobre ti: | Minimo 20 letras.
+> La respuesta debe tener al menos 20 caracteres.
+Escribe una breve biografía sobre ti: | Minimo 20 letras.
+> ¡Gracias por compartir tu biografía!
+¿Cómo describirías tu apariencia física?: | Minimo 10 letras.
+> La respuesta debe tener al menos 10 caracteres.
+¿Cómo describirías tu apariencia física?: | Minimo 10 letras.
+> ¡Gracias por compartir sobre tu apariencia física!
+¡Gracias por completar el cuestionario!
+
+➡️ Resumen de tus respuestas:
+
+- Nombre: Caca,
+- Apellido: Meoln,
+- Nombre completo: Caca Meoln,
+- Edad: 2 años,
+- Género: awdawd,
+
+- Profesión: wdawdwd,
+- Color favorito: grdgdrgrdgdrg,
+- Animal favorito: drgdrgdrgdrgdrg,
+- Comida favorita: drgdrgdrgdrgdr,
+- País: Drgdrgdrgdrgdr,
+- Pelicula favorita: thtfhfthfthfth,
+- Serie favorita: wawdawdawd,
+- Juego favorito: 565464565454654654,
+- Deporte favorito: 231231231313132,
+- Pasión: dddd,
+- Banda favorita: 222222222,
+- DNI: Oculto,
+- Número de teléfono: 4444444444444,
+- Número favorito: 5555555555555555,
+- Sitio web: 666,
+- Biografía: 333333333333333333333333,
+- Apariencia física: 4444444444444444444444444.
+Resumen guardado en el archivo: E:\Archivos\VSC\Testing\Cuestionario\dist\logs\cuestionarioresumen_Caca Meoln_2025-10-14_16-05-07_658.txt de la carpeta actual. (Puedes abrirlo con cualquier editor de texto).
+Log guardado en el archivo: E:\Archivos\VSC\Testing\Cuestionario\dist\logs\logs\log_2025-10-14_16-03-40_389.txt de la carpeta actual. (Puedes abrirlo con cualquier editor de texto).
